@@ -34,15 +34,15 @@ Gantt Şeması(Güncellenecek)
 
 
 # Sprint 1</br>
-Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.</br>
+*Discord üzerinden ilk toplantı yapıldı. 
+*Görev dağılımı, oyun türü, takım ve oyun ismi belilrendi. 
+*Toplantı gün ve saatleri belirlendi.
+*Sprint Notları, User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.</br>
+*Sprint içinde tamamlanması tahmin edilen puan: 100 Puan</br>
+*Puan tamamlama mantığı, toplamda proje boyunca tamamlanması gereken - puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından - ile başlaması gerektiğine karar verildi.</br>
+*Backlog düzeni ve story seçimleriiçin, Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.</br>
+*Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.</br>
 
-Sprint içinde tamamlanması tahmin edilen puan: 100 Puan</br>
-
-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken - puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından - ile başlaması gerektiğine karar verildi.</br>
-
-Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.</br>
-
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.</br>
 
 ## Daily Scrum 
 Daily Scrum toplantılarının zamansal sebeplerden ötürü - üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats</br>
